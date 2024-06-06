@@ -425,6 +425,10 @@
   margin-right: auto;
 }
 
+.footer-block_details-content .list-menu_item--link{ 
+  font-family: YuGothic, 'Yu Gothic', sans-serif;
+}
+
 .footer-block-image > img,
 .footer-block__brand-info > img {
   height: auto;
